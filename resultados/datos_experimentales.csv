@@ -1,0 +1,4 @@
+Metodo,Mejor_Costo,Promedio,Desv_Estandar
+Hill_Climbing,32,32,0.0
+Recocido_Simulado,32,32.0,0.0
+Algoritmo_Genetico,32,32.0,0.0

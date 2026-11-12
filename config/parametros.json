@@ -1,0 +1,25 @@
+﻿{
+  "busqueda_heuristica": {
+    "max_nodos": 10000
+  },
+  "hill_climbing": {
+    "num_reinicios": 10,
+    "max_iteraciones": 100
+  },
+  "recocido_simulado": {
+    "temperatura_inicial": 100.0,
+    "temperatura_minima": 0.1,
+    "factor_enfriamiento": 0.95,
+    "num_ejecuciones": 20
+  },
+  "algoritmo_genetico": {
+    "tamano_poblacion": 50,
+    "num_generaciones": 100,
+    "probabilidad_cruza": 0.8,
+    "probabilidad_mutacion": 0.1,
+    "num_ejecuciones": 20
+  },
+  "minimax": {
+    "profundidad_maxima": 4
+  }
+}
